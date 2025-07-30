@@ -1,1 +1,1 @@
-# 1-loyiha
+Javastkriptdagi ilk loyiham
